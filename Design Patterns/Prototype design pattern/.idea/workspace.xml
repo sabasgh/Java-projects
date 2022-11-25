@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06ded58e-fd9a-45a3-926e-4d3d5a6ccf92" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Adapter design pattern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/Design Patterns.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Factory Methode/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,17 +25,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "E:/github project/Projects/Java projects/Java-projects/Java-projects/Design Patterns/Adapter design pattern",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/github project/Projects/Java projects/Java-projects/Java-projects/Design Patterns/Adapter design pattern&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -46,6 +47,7 @@
       <workItem from="1668338730067" duration="1000" />
       <workItem from="1668356737570" duration="1438000" />
       <workItem from="1668460213889" duration="252000" />
+      <workItem from="1669380144796" duration="52000" />
     </task>
     <servers />
   </component>
